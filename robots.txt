@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jinjiins.github.io/jinjiins/sitemap.xml
+Sitemap: https://jinjiins.github.io/sitemap.xml

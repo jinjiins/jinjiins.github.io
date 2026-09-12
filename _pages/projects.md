@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: research projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: Computational engineering tools and research software by Seungjin Lee.
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
